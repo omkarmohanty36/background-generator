@@ -1,0 +1,23 @@
+/* Selector {
+    Property: value;
+} */
+body {
+  background-image: url(stuart-davies-_Y5atbPhZyk-unsplash.jpg);
+  background-size: cover;
+}
+
+h2 {
+  color: blueviolet;
+  border: 5px solid rgba(9, 85, 161, 0.849);
+  text-align: center;
+  cursor: pointer;
+}
+
+p {
+  color: rgba(173, 23, 48, 0.493);
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+}
